@@ -1,0 +1,17 @@
+.App{
+    background-color: thistle;
+    margin: 30px;
+    justify-items:center ;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+img{
+    border-radius: 150px;
+}
+.info{
+    font-variant-ligatures: historical-ligatures;
+    color: cornflowerblue;
+    font-size: x-large;
+    border: currentColor;
+}
